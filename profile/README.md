@@ -1,4 +1,9 @@
-# CircleChat
+<div style="display:flex;justify-content:space-between;align-items:center;gap:1rem;">
+  <h1 style="margin:0;">CircleChat</h1>
+  <img src="/logo.svg" alt="CircleChat Logo" style="height:48px;">
+</div>
+
 自托管的轻量多人聊天服务器。单进程部署，支持群组 / 私聊，含好友关系、开放注册审核、在线状态、消息撤回、表情回应、举报处罚与审计日志。服务端零第三方运行时依赖。
 
+演示截图：
 ![屏幕截图_chat.ctfun.top.jpeg](../屏幕截图_chat.ctfun.top.jpeg)
